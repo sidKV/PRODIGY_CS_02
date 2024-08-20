@@ -26,5 +26,6 @@ Set the new encrypted values back to the pixel.
 Save the modified image to the specified output_path.
 
 # Repository Contents
-PRODIGY_CS_02.py : The main Python script containing the implementation of the Caesar Cipher.
+PRODIGY_CS_02.py : The main Python script containing the implementation of the Pixel Manipulation.
+
 README.md : This file, providing an overview of the task and the project.
